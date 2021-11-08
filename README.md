@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon!
 - 👀 I’m interested in AutoML, XAI and interative ML.
 - 🌱 I’m currently studying for a PhD in mathematics and computer science.
-- 💞️ I’m looking to collaborate on amazing projects in any field.
+- 💞️ I’m looking to collaborate on amazing projects in the field of explainable Artificial Intelligence.
 - 📫 Reach me at simon.schramm@uni-bamberg.de.
