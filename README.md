@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simon
+- 👋 Hi, I’m Simon!
 - 👀 I’m interested in AutoML, XAI and interative ML.
 - 🌱 I’m currently studying for a PhD in mathematics and computer science.
 - 💞️ I’m looking to collaborate on amazing projects in any field.
